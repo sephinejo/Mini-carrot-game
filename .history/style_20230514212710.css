@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: auto;
+}
+
+.container {
+  background-size: cover;
+  background-image: url('img/background.png');
+  height: 60rem;
+}
+
+.infos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.info__icon__play {
+  font-size: 6rem;
+  color: #ffd39a;
+}
+
+.info__timer {
+  font-family: Montserrat;
+  font-size: 3rem;
+  font-weight: 600;
+  border: 0.4rem solid black;
+  border-radius: 0.8rem;
+  padding: 0.1rem 0.9rem;
+}

@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: auto;
+}
+
+.container {
+  background-size: cover;
+  background-image: url('img/background.png');
+  height: 60rem;
+}
+
+.infos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.info__icon__play {
+  font-size: 4rem;
+  color: black;
+  border: 0.45rem solid black;
+  border-radius: 0.8rem;
+  background-color: white;
+  padding: 0.4rem 0.9rem 0rem 1.1rem;
+}
+
+.info__timer {
+  font-family: Montserrat;
+  font-size: 3rem;
+
+  border: 0.45rem solid black;
+  border-radius: 0.8rem;
+  background-color: white;
+  padding: 0.1rem 0.9rem;
+}
+
+.info__counter {
+  font-size: 3rem;
+}

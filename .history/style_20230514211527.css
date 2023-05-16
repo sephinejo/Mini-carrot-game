@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: auto;
+}
+
+.container {
+  background-size: cover;
+  background-image: url('img/background.png');
+  height: 60rem;
+}
+
+.infos {
+  text-align: center;
+}
+
+.space {
+  display: flex;
+}

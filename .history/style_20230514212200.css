@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: auto;
+}
+
+.container {
+  background-size: cover;
+  background-image: url('img/background.png');
+  height: 60rem;
+}
+
+.infos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.info__icon__play {
+  font-size: 6rem;
+  color: #ffd39a;
+}
+
+.info__timer {
+  font-size: 4rem;
+  border: 4px solid black;
+}

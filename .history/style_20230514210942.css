@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: auto 0;
+  display: flex;
+}
+
+.container {
+  background-image: url('img/background.png');
+  width: 100%;
+}

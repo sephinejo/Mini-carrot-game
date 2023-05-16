@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: auto;
+}
+
+.container {
+  background-size: cover;
+  background-image: url('img/background.png');
+  height: 60rem;
+}
+
+.infos {
+  text-align: center;
+}
+
+.info__icon__play {
+  border: solid black 2px;
+  font-size: 6rem;
+  color: #ce5959;
+}

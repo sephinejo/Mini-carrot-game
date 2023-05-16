@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: auto;
+}
+
+.container {
+  background-size: contain;
+  background-image: url('img/background.png');
+  width: 100%;
+  height: 70%;
+}
