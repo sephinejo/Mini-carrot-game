@@ -2,6 +2,9 @@
 A mini carrot game developed with JavaScript that you win if you grab all required carrots.
 If you click a bug, you lose.
 
+## Link
+[Live Demo](https://luxury-truffle-5b0c87.netlify.app/)
+
 ## Screenshots
 <img width="719" alt="Screenshot 2023-05-18 at 5 04 31 PM" src="https://github.com/sephinejo/Mini-carrot-game/assets/110086543/aace9bc1-e83e-47fc-a074-7c3ba4eab8db">
 <img width="710" alt="Screenshot 2023-05-18 at 5 05 53 PM" src="https://github.com/sephinejo/Mini-carrot-game/assets/110086543/681c1720-ca1b-4e6b-abf9-cb61b13a5296">
